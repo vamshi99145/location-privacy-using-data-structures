@@ -1,3 +1,4 @@
+Created GitHub project "Location Privacy Preservation via Data Structures". Designed privacy solutions for database-based cognitive radio networks (CRNs), maintaining spectrum access. Leveraged probabilistic set membership data structures for efficient spectrum DB management, safeguarding SUs' location privacy. Devised a secure two-party protocol with low communication overhead. Also, introduced an alternate scheme, minimizing overhead through an extra entity for spectrum data retrieval. Tech: Java, MySQL.
 # location-privacy-using-data-structures
 ![Screenshot (1064)](https://github.com/vamshi99145/location-privacy-using-data-structures/assets/77665988/0e74c1b0-ec26-4225-b799-0d2572681466)
 ![Screenshot (1065)](https://github.com/vamshi99145/location-privacy-using-data-structures/assets/77665988/5463c7a0-613b-4b3f-9fcb-59a2d71bcfc7)
